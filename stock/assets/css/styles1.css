@@ -1,0 +1,67 @@
+/* .main-menu{
+    background-color: #FFAF00;
+} */
+
+.sidebar-header{
+    background-color: #fff;
+    border: 1px solid #FFAF00;
+}
+
+/* .metismenu >li:hover>a,
+.metismenu >li.active>a {
+    color: #000;
+    background: #fff;
+}
+
+.metismenu li:hover>a i,
+.metismenu li.active>a i {
+    color: #000;
+}
+
+.metismenu li a {
+    color: #fff;
+}
+.metismenu li a i {
+    color: #fff;
+}
+
+.breadcrumbs li a{
+    color: #FFAF00;
+}
+
+.page-title-area:before {
+    background: #FFAF00;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+}
+
+
+.datatable-dark thead {
+    background: #FFAF00;
+    color: #fff;
+}
+
+.datatable-dark .dataTables_paginate .page-item.active .page-link,
+.datatable-dark .dataTables_paginate .page-item .page-link:hover {
+    background-color: #FFAF00;
+    border-color: #FFAF00;
+    color: #fff;
+}
+
+.datatable-dark .dataTables_paginate .page-link {
+    color: #FFAF00;
+    border: 1px solid #FFAF00;
+}
+
+.datatable-dark .dataTables_paginate .paginate_button.disabled,
+.datatable-dark .dataTables_paginate .paginate_button.disabled:hover,
+.datatable-dark .dataTables_paginate .paginate_button.disabled:active {
+    color: #FFAF00!important;
+    border: none;
+}
+
+.datatable-dark .dataTables_paginate .page-item.disabled .page-link {
+    color: #999;
+    background-color: #f9f9f9;
+    border-color: #999;
+} */
